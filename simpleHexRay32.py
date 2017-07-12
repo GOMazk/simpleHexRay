@@ -1,7 +1,6 @@
 #IDAPython
 #simpleHexRay for 32bit code
 from idautils import *
-import re
 
 #1register 2segment 3pointer 4lea/arg 5integer/offset 7function/jmpdest
 
